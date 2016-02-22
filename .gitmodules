@@ -1,0 +1,18 @@
+[submodule "automation-encryption"]
+	path = automation-encryption
+	url = git@github.com:scraswell/automation-encryption.git
+[submodule "automation-encryption-unit-tests"]
+	path = automation-encryption-unit-tests
+	url = git@github.com:scraswell/automation-encryption-unit-tests.git
+[submodule "openssl-net"]
+	path = openssl-net
+	url = https://github.com/openssl-net/openssl-net.git
+[submodule "craswell-models"]
+	path = craswell-models
+	url = git@github.com:scraswell/craswell-models.git
+[submodule "craswell-dataaccess"]
+	path = craswell-dataaccess
+	url = git@github.com:scraswell/craswell-dataaccess.git
+[submodule "craswell-dataaccess-tests"]
+	path = craswell-dataaccess-tests
+	url = git@github.com:scraswell/craswell-dataaccess-tests.git
